@@ -183,7 +183,9 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-right: 52px;
+    width: auto;
+    margin-left: 26px;
+    margin-right: 26px;
   }
 
   .u-section-1 .u-gallery-1 {
@@ -192,8 +194,9 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-left: 122px;
-    width: 340px;
+    width: auto;
+    margin-right: -50px;
+    margin-left: 50px;
   }
 }@font-face {
   font-family: 'XiaoDouDaoFengWuShiJianFan-ShanREEJI-Xiaodou-PoemGBT-Flash-2';

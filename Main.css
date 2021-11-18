@@ -3,36 +3,29 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-size: 3rem;
-  font-family: XiaoDouDaoFengWuShiJianFan-ShanREEJI-Xiaodou-PoemGBT-Flash-2;
-  font-weight: normal;
-  margin: 29px auto 0 245px;
-}
-
-.u-section-1 .u-text-2 {
   font-size: 3.75rem;
   font-family: XiaoDouDaoFengWuShiJianFan-ShanREEJI-Xiaodou-PoemGBT-Flash-2;
   text-align: center;
-  margin: -52px 264px 0 auto;
+  margin: 101px auto 0;
 }
 
-.u-section-1 .u-text-3 {
+.u-section-1 .u-text-2 {
   font-size: 1.5rem;
   font-family: XiaoDouDaoFengWuShiJianFan-ShanREEJI-Xiaodou-PoemGBT-Flash-2;
   text-align: center;
-  margin: -1px auto 0 245px;
+  margin: 10px auto 0;
 }
 
 .u-section-1 .u-gallery-1 {
-  height: 382px;
+  height: 288px;
   grid-template-columns: auto auto auto auto auto;
-  margin-top: 29px;
+  margin-top: 40px;
   margin-bottom: 40px;
 }
 
 .u-section-1 .u-gallery-inner-1 {
   grid-template-columns: auto auto auto auto auto auto;
-  grid-gap: 20px 20px;
+  grid-gap: 12px 12px;
 }
 
 .u-section-1 .u-gallery-item-1 {
@@ -151,11 +144,11 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 504px;
+    min-height: 520px;
   }
 
   .u-section-1 .u-gallery-1 {
-    height: 315px;
+    height: 237px;
   }
 
   .u-section-1 .u-gallery-inner-1 {
@@ -165,24 +158,21 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1154px;
+    min-height: 1009px;
   }
 
   .u-section-1 .u-text-1 {
+    margin-top: 181px;
     margin-left: 188px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 202px;
-  }
-
-  .u-section-1 .u-text-3 {
-    margin-left: 188px;
+    margin-top: 20px;
   }
 
   .u-section-1 .u-gallery-1 {
     grid-template-columns: auto auto auto;
-    height: 965px;
+    height: 726px;
   }
 
   .u-section-1 .u-gallery-inner-1 {
@@ -192,24 +182,16 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1817px;
+    min-height: 1508px;
   }
 
   .u-section-1 .u-text-1 {
     margin-left: 141px;
   }
 
-  .u-section-1 .u-text-2 {
-    margin-right: 152px;
-  }
-
-  .u-section-1 .u-text-3 {
-    margin-left: 141px;
-  }
-
   .u-section-1 .u-gallery-1 {
     grid-template-columns: auto auto;
-    height: 1628px;
+    height: 1225px;
   }
 
   .u-section-1 .u-gallery-inner-1 {
@@ -219,25 +201,26 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 4289px;
+    min-height: 3378px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: 89px;
+    font-size: 1.5rem;
+    width: auto;
+    margin-top: 123px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-text-2 {
-    font-size: 1.5rem;
-    margin-right: 96px;
-  }
-
-  .u-section-1 .u-text-3 {
-    margin-left: 89px;
+    width: auto;
+    margin-top: 17px;
   }
 
   .u-section-1 .u-gallery-1 {
     grid-template-columns: auto;
-    height: 4100px;
+    margin-top: 41px;
+    margin-bottom: 60px;
+    height: 3085px;
   }
 
   .u-section-1 .u-gallery-inner-1 {
