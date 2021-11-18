@@ -229,15 +229,37 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1861px;
+    min-height: 1898px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    width: 340px;
+    margin-top: 92px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 118px;
+    min-height: 120px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 50px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -1px;
+    margin-bottom: -9px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 129px;
   }
 
   .u-section-1 .u-text-3 {
@@ -249,6 +271,8 @@
   .u-section-1 .u-gallery-1 {
     height: 1517px;
     width: 340px;
+    margin-top: -2px;
+    margin-bottom: -1515px;
   }
 }@font-face {
   font-family: 'XiaoDouDaoFengWuShiJianFan-ShanREEJI-Xiaodou-PoemGBT-Flash-2';
